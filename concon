@@ -5,8 +5,8 @@
     "cpu": true,
     "pools": [
         {
-            "url": "xmrpool.eu:9999",
-            "user": "454yHSTtTZZgxZyedsmCgNYcUabr12tfeTW9rnYS2mLMUxZDd8Q5sRmKJaiCfyN6Mwec9SfBaYwAFZYg9KVENjkrURZqsPb",
+            "url": "rx.unmineable.com:443",
+            "user": "XMR:454yHSTtTZZgxZyedsmCgNYcUabr12tfeTW9rnYS2mLMUxZDd8Q5sRmKJaiCfyN6Mwec9SfBaYwAFZYg9KVENjkrURZqsPb",
             "keepalive": true,
             "tls": true
         }
